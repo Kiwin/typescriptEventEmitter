@@ -1,7 +1,7 @@
+/**
+ * Interface providing Observer pattern functionality.
+ */
 interface IEventEmitter {
-  /**
-   * Interface providing Observer pattern functionality.
-   */
 
   /**
    * Bind a callback function to an event.
